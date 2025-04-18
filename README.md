@@ -34,7 +34,7 @@ print("Path to dataset files:", path)
 
 ## 🖼️ Sample Output
 
-[Fire](![image](https://github.com/user-attachments/assets/20971053-2892-401e-8c33-8c8b381f2068))
+[Fire](https://en.wikipedia.org/wiki/Wildfire)
 
 
 
