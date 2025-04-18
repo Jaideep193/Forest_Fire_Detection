@@ -33,8 +33,11 @@ path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
 print("Path to dataset files:", path)
 ```
 ## 🖼️ Sample Output
-
+Fire
 ![Fire](fire_sample.jpg)
+
+No Fire
+![Fire](nofire_sample.jpg)
 
 
 
