@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 
 
-## ✅ Dataset is directli imported from kagglehub.
+## ✅ Dataset is directly imported from kagglehub.
 bash
 import kagglehub
 
@@ -34,12 +34,8 @@ print("Path to dataset files:", path)
 
 ## 🖼️ Sample Output
 
-[Fire](![image](https://github.com/user-attachments/assets/20971053-2892-401e-8c33-8c8b381f2068)
-)
+[Fire](![image](https://github.com/user-attachments/assets/20971053-2892-401e-8c33-8c8b381f2068))
 
-
-
-pip install -r requirements.txt
 
 
 
