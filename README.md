@@ -37,7 +37,7 @@ Fire
 ![Fire](fire_sample.jpg)
 
 No Fire
-![Fire](nofire_sample.jpg)
+![No Fire](nofire_sample.jpg)
 
 
 
