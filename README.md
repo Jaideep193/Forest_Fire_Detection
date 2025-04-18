@@ -34,13 +34,13 @@ print("Path to dataset files:", path)
 ```
 ## 🖼️ Sample Output
 Fire
-![Fire](fire_sample.jpg)
+<img src="fire_sample.jpg" alt="Fire" style="max-width:200px; border-radius:8px;" />
 
 No Fire
-![No Fire](nofire_sample.jpeg)
+<img src="nofire_sample.jpeg" alt="Fire" style="max-width:200px; border-radius:8px;" />
 
 
-<img src="fire_sample.jpg" alt="Fire" style="max-width:200px; border-radius:8px;" />
+
 
 
 
