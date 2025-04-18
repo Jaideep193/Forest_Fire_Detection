@@ -34,7 +34,7 @@ print("Path to dataset files:", path)
 ```
 ## 🖼️ Sample Output
 
-[Fire]()
+![Fire Sample](fire_sample.jpg)
 
 
 
