@@ -21,10 +21,7 @@ The model is a CNN trained on a labeled dataset of forest images categorized as 
 
 
 pip install -r requirements.txt
-🚀 Getting Started
-Clone the repository:
-git clone https://github.com/your-username/forest-fire-detection.git
-cd forest-fire-detection
+
 
 ###Launch the notebook:
 jupyter notebook Forest_Fire_Detection_using_Deep_learning.ipynb
