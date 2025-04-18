@@ -24,53 +24,32 @@ pip install -r requirements.txt
 🚀 Getting Started
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/forest-fire-detection.git
 cd forest-fire-detection
 Launch the notebook:
 
-bash
-Copy
-Edit
 jupyter notebook Forest_Fire_Detection_using_Deep_learning.ipynb
 Run all cells to train the model and see predictions.
 
-✅ Make sure the dataset is placed in the correct folders (train/ and test/) as expected by the notebook.
+✅ Dataset is directli imported from kagglehub.
+```bash
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
+
+print("Path to dataset files:", path)
 
 🖼️ Sample Output
 
-Fire Detected	No Fire
-📊 Performance Metrics
-Accuracy: XX%
+Fire Detected	or No Fire
 
-Loss: YY
 
-Confusion Matrix: ✔️ included in the notebook
 
-📌 TODO
- Add GUI or Web App
 
- Improve model accuracy
 
- Deploy as API using Flask or FastAPI
 
-🧾 License
-This project is licensed under the MIT License.
-
-🙏 Acknowledgments
-Dataset from [source]
-
-Inspired by global wildfire prevention efforts
-
-yaml
-Copy
-Edit
-
----
-
-Want me to scan the actual notebook and auto-fill things like accuracy or library list into this?
 
 
 
