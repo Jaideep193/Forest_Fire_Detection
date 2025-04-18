@@ -34,7 +34,7 @@ print("Path to dataset files:", path)
 ```
 ## 🖼️ Sample Output
 Fire
-<img src="fire_sample.jpg" alt="Fire" style="max-width:200px; border-radius:8px;" />
+<img src="fire_sample.jpg" alt="Fire" style="max-width:50px; border-radius:8px;" />
 
 No Fire
 <img src="nofire_sample.jpeg" alt="Fire" style="max-width:200px; border-radius:8px;" />
