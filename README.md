@@ -19,22 +19,22 @@ The model is a CNN trained on a labeled dataset of forest images categorized as 
 
 ## Install dependencies with:
 
-
+```bash
 pip install -r requirements.txt
 
-
+```
 
 ## ✅ Dataset is directly imported from kagglehub.
-bash
+```bash
 import kagglehub
 
 path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
 
 print("Path to dataset files:", path)
-
+```
 ## 🖼️ Sample Output
 
-[Fire]([https://en.wikipedia.org/wiki/Wildfire](https://en.wikipedia.org/wiki/File:Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpg))
+[Fire]()
 
 
 
