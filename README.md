@@ -40,6 +40,7 @@ No Fire
 ![No Fire](nofire_sample.jpeg)
 
 
+<img src="assets/fire_sample.jpg" alt="Fire" style="max-width:200px; border-radius:8px;" />
 
 
 
