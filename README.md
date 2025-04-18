@@ -34,7 +34,7 @@ print("Path to dataset files:", path)
 
 ## 🖼️ Sample Output
 
-[Fire](https://en.wikipedia.org/wiki/Wildfire)
+[Fire]([https://en.wikipedia.org/wiki/Wildfire](https://en.wikipedia.org/wiki/File:Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpg))
 
 
 
