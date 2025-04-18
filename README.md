@@ -27,12 +27,12 @@ Clone the repository:
 
 git clone https://github.com/your-username/forest-fire-detection.git
 cd forest-fire-detection
-Launch the notebook:
 
+###Launch the notebook:
 jupyter notebook Forest_Fire_Detection_using_Deep_learning.ipynb
-Run all cells to train the model and see predictions.
 
-✅ Dataset is directli imported from kagglehub.
+
+##✅ Dataset is directli imported from kagglehub.
 ```bash
 import kagglehub
 
@@ -41,7 +41,7 @@ path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
 
 print("Path to dataset files:", path)
 
-🖼️ Sample Output
+##🖼️ Sample Output
 
 Fire Detected	or No Fire
 
