@@ -17,28 +17,25 @@ The model is a CNN trained on a labeled dataset of forest images categorized as 
 - scikit-learn
 - OpenCV (optional, for image preprocessing)
 
-##Install dependencies with:
+## Install dependencies with:
 
 
 pip install -r requirements.txt
 
 
-###Launch the notebook:
-jupyter notebook Forest_Fire_Detection_using_Deep_learning.ipynb
 
-
-##✅ Dataset is directli imported from kagglehub.
-
+## ✅ Dataset is directli imported from kagglehub.
+bash
 import kagglehub
 
-# Download latest version
 path = kagglehub.dataset_download("elmadafri/the-wildfire-dataset")
 
 print("Path to dataset files:", path)
 
-##🖼️ Sample Output
+## 🖼️ Sample Output
 
-Fire Detected	or No Fire
+[Fire](![image](https://github.com/user-attachments/assets/20971053-2892-401e-8c33-8c8b381f2068)
+)
 
 
 
