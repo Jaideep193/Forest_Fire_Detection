@@ -216,7 +216,4 @@ Contributions are **welcome**! Here's how you can help:
 
 ---
 
-<div align="center">
-  <p>🌲 <strong>Together, let's protect our forests from wildfires!</strong> 🔥</p>
-  <img src="https://media.giphy.com/media/3o7TKsHFabi2vwBLaw/giphy.gif" width="200" alt="Forest Protection">
-</div>
+
