@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Jaideep193/Forest_Fire_Detection.svg?style=social&label=Star)](https://github.com/Jaideep193/Forest_Fire_Detection)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4FsAvZ2LrFZV6XJe/giphy.gif" width="400" alt="Forest Fire Animation">
+ 
   <h3>🚨 Early Forest Fire Detection System using Convolutional Neural Networks 🚨</h3>
 </div>
 
@@ -198,9 +198,7 @@ Contributions are **welcome**! Here's how you can help:
   <h3>Jaideep193</h3>
   <p>🔥 Passionate about AI and Environmental Protection 🌍</p>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Jaideep193-black?logo=github)](https://github.com/Jaideep193)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/jaideep193)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jaideep@example.com)
+
 </div>
 
 ---
