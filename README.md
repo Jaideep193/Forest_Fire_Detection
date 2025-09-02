@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/Jaideep193)
 [![GitHub stars](https://img.shields.io/github/stars/Jaideep193/Forest_Fire_Detection.svg?style=social&label=Star)](https://github.com/Jaideep193/Forest_Fire_Detection)
 
@@ -190,11 +190,6 @@ Contributions are **welcome**! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
