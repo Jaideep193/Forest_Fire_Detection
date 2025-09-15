@@ -141,11 +141,11 @@ print("Path to dataset files:", path)
 
 ### 📈 Dataset Statistics
 
-- • Total Images: 2,000+ high-quality forest images
-- • Classes: Binary (Fire 🔥 / No Fire 🌲)
-- • Image Size: 224x224 pixels
-- • Format: JPEG/PNG
-- • Split: 80% Training, 20% Testing
+-  Total Images: 2,000+ high-quality forest images
+- Classes: Binary (Fire 🔥 / No Fire 🌲)
+- Image Size: 224x224 pixels
+- Format: JPEG/PNG
+- Split: 80% Training, 20% Testing
 
 ## 🚀 Usage
 
