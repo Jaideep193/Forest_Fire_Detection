@@ -57,16 +57,15 @@
 
 ## 📋 Table of Contents
 
-- • [🎯 Project Overview](#-project-overview)
-- • [🧠 Model Architecture](#-model-architecture)
-- • [📦 Installation](#-installation)
-- • [📊 Dataset](#-dataset)
-- • [🚀 Usage](#-usage)
-- • [📈 Results](#-results)
-- • [🖼️ Sample Outputs](#-sample-outputs)
-- • [🤝 Contributing](#-contributing)
-- • [📄 License](#-license)
-- • [👨‍💻 Author](#-author)
+-  [🎯 Project Overview](#-project-overview)
+-  [🧠 Model Architecture](#-model-architecture)
+-  [📦 Installation](#-installation)
+-  [📊 Dataset](#-dataset)
+-  [🚀 Usage](#-usage)
+-  [📈 Results](#-results)
+-  [🖼️ Sample Outputs](#-sample-outputs)
+-  [🤝 Contributing](#-contributing)
+-  [👨‍💻 Author](#-author)
 
 ## 🎯 Project Overview
 
@@ -74,11 +73,11 @@ This repository contains a state-of-the-art deep learning project that detects f
 
 ### ✨ Key Features
 
-- • 🔥 Real-time fire detection in forest images
-- • 🧠 Deep CNN architecture for high accuracy
-- • 📱 Easy-to-use interface for predictions
-- • ⚡ Fast inference for real-time applications
-- • 🌍 Environmental protection focus
+-  🔥 Real-time fire detection in forest images
+-  🧠 Deep CNN architecture for high accuracy
+-  📱 Easy-to-use interface for predictions
+-  ⚡ Fast inference for real-time applications
+-  🌍 Environmental protection focus
 
 ## 🧠 Model Architecture
 
@@ -86,22 +85,22 @@ The model is a Convolutional Neural Network (CNN) trained on a labeled dataset o
 
 ### 🏗️ Architecture Details
 
-- • Input Layer: 224x224x3 RGB images
-- • Convolutional Layers: Multiple Conv2D layers with ReLU activation
-- • Pooling Layers: MaxPooling for feature reduction
-- • Dense Layers: Fully connected layers for classification
-- • Output Layer: Binary classification (Fire/No Fire)
+-  Input Layer: 224x224x3 RGB images
+-  Convolutional Layers: Multiple Conv2D layers with ReLU activation
+-  Pooling Layers: MaxPooling for feature reduction
+-  Dense Layers: Fully connected layers for classification
+-  Output Layer: Binary classification (Fire/No Fire)
 
 ## 📦 Installation
 
 ### 🔧 Prerequisites
 
-- • [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/) Python 3.7+
-- • [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/) TensorFlow 2.0+
-- • [![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)](https://numpy.org/) NumPy
-- • [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-red.svg)](https://matplotlib.org/) Matplotlib
-- • [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24+-yellow.svg)](https://scikit-learn.org/) Scikit-learn
-- • [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-blue.svg)](https://opencv.org/) OpenCV (optional)
+-  [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/) Python 3.7+
+-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/) TensorFlow 2.0+
+-  [![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)](https://numpy.org/) NumPy
+-  [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-red.svg)](https://matplotlib.org/) Matplotlib
+-  [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24+-yellow.svg)](https://scikit-learn.org/) Scikit-learn
+-  [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-blue.svg)](https://opencv.org/) OpenCV (optional)
 
 ### ⚡ Quick Install
 
@@ -177,17 +176,17 @@ print(result)
 
 ### 🎯 Model Performance
 
-- • Accuracy: 95.2% ✅
-- • Precision: 94.8% 🎯
-- • Recall: 96.1% 📊
-- • F1-Score: 95.4% 📈
+-  Accuracy: 95.2% ✅
+-  Precision: 94.8% 🎯
+-  Recall: 96.1% 📊
+-  F1-Score: 95.4% 📈
 
 ### 📊 Training Metrics
 
-- • Training Accuracy: 98.5%
-- • Validation Accuracy: 95.2%
-- • Training Loss: 0.045
-- • Validation Loss: 0.132
+-  Training Accuracy: 98.5%
+-  Validation Accuracy: 95.2%
+-  Training Loss: 0.045
+-  Validation Loss: 0.132
 
 ## 🖼️ Sample Outputs
 
@@ -221,11 +220,11 @@ Contributions are welcome! Here's how you can help:
 
 ### 💡 Ideas for Contributions
 
-- • 🔧 Improve model accuracy
-- • 📱 Add mobile app integration
-- • 🌐 Create web interface
-- • 📊 Add more evaluation metrics
-- • 🎨 Enhance visualization
+-  🔧 Improve model accuracy
+-  📱 Add mobile app integration
+-  🌐 Create web interface
+-  📊 Add more evaluation metrics
+-  🎨 Enhance visualization
 
 ## 👨‍💻 Author
 
