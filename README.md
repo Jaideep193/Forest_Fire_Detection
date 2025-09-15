@@ -12,7 +12,7 @@
 
 ## 🏗️ Project Block Diagram
 
-### Option 1: Sleek Emoji-Based Vertical Pipeline
+
 
 ```
                      📷 Image Input
@@ -41,7 +41,7 @@
                    + Confidence Score
 ```
 
-### Option 3: Pipeline Steps Table
+### Pipeline Steps Table
 
 | Step | Icon | Component | Description |
 |------|------|-----------|-------------|
