@@ -227,10 +227,6 @@ Contributions are welcome! Here's how you can help:
 - • 📊 Add more evaluation metrics
 - • 🎨 Enhance visualization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 ![Avatar](https://github.com/Jaideep193.png?size=100)
