@@ -12,14 +12,21 @@
 
 ## 🏗️ Project Block Diagram
 
-![Forest Fire Detection Pipeline](block_diagram.png)
+```
+┌─────────────┐    ┌──────────────┐    ┌─────────────┐    ┌──────────────┐    ┌─────────────────┐
+│   📷 Image  │    │  🔧 Preprocessing │    │  🧠 CNN Model │    │ 🔍 Classification │    │  📊 Output      │
+│    Input    │───▶│   & Augment   │───▶│   Feature   │───▶│  Binary      │───▶│ Fire/No Fire    │
+│ (224x224x3) │    │  Normalize    │    │  Extraction │    │  Prediction  │    │ + Confidence    │
+└─────────────┘    └──────────────┘    └─────────────┘    └──────────────┘    └─────────────────┘
+```
 
-The above diagram illustrates the complete pipeline for forest fire detection:
+**Pipeline Flow:**
+📷 **Image Input** → 🔧 **Preprocessing** → 🧠 **CNN Model** → 🔍 **Classification** → 📊 **Output (Fire/No Fire)**
 
-**📷 Image Input** → **🔧 Preprocessing** → **🧠 CNN Model** → **🔍 Classification** → **📊 Output (Fire/No Fire)**
+The complete pipeline for forest fire detection:
 
 1. **Image Input**: Forest images (224x224x3 RGB)
-2. **Preprocessing**: Image normalization and data augmentation
+2. **Preprocessing**: Image normalization and data augmentation  
 3. **CNN Model**: Deep learning feature extraction with convolutional layers
 4. **Classification**: Binary classification using dense layers
 5. **Output**: Fire detected 🔥 or No fire 🌲 with confidence score
@@ -29,7 +36,7 @@ The above diagram illustrates the complete pipeline for forest fire detection:
 ## 📋 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
-- [🧠 Model Architecture](#-model-architecture)
+- [🧠 Model Architecture](#-model-architecture) 
 - [📦 Installation](#-installation)
 - [📊 Dataset](#-dataset)
 - [🚀 Usage](#-usage)
@@ -69,10 +76,10 @@ The model is a Convolutional Neural Network (CNN) trained on a labeled dataset o
 
 - • [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/) Python 3.7+
 - • [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://tensorflow.org/) TensorFlow 2.0+
-- • [![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)](https://numpy.org/) NumPy
-- • [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-red.svg)](https://matplotlib.org/) Matplotlib
-- • [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24+-yellow.svg)](https://scikit-learn.org/) Scikit-learn
-- • [![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-blue.svg)](https://opencv.org/) OpenCV (optional)
+- • [![NumPy](https://img.shields.io/badge/NumPy-Latest-blue.svg)](https://numpy.org/) NumPy
+- • [![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-blue.svg)](https://matplotlib.org/) Matplotlib
+- • [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/) Scikit-learn
+- • [![OpenCV](https://img.shields.io/badge/OpenCV-Latest-green.svg)](https://opencv.org/) OpenCV (optional)
 
 ### ⚡ Quick Install
 
@@ -87,7 +94,7 @@ pip install -r requirements.txt
 
 ### 📋 Dependencies List
 
-```
+```txt
 tensorflow>=2.0.0
 numpy>=1.19.0
 matplotlib>=3.3.0
@@ -122,16 +129,14 @@ print("Path to dataset files:", path)
 
 ### 💻 Running the Model
 
-1. **Open the Jupyter Notebook:**
-
+1. Open the Jupyter Notebook:
 ```bash
 jupyter notebook Forest_Fire_Detection_using_Deep_learning.ipynb
 ```
 
-2. **Run all cells** to train and test the model
+2. Run all cells to train and test the model
 
-3. **Make predictions on new images:**
-
+3. Make predictions on new images:
 ```python
 # Load your image
 image = load_and_preprocess_image('path_to_your_image.jpg')
@@ -165,19 +170,17 @@ print(result)
 ### 🔥 Fire Detection Examples
 
 #### 🔥 Fire Detected
-
 ![Fire Detection Example](fire_sample.jpg)
 
-**Prediction**: FIRE DETECTED 🚨
+**Prediction**: FIRE DETECTED 🚨  
 **Confidence**: 98.7%
 
 ### 🌲 No Fire Examples
 
 #### 🌲 No Fire Detected
-
 ![No Fire Example](nofire_sample.jpeg)
 
-**Prediction**: NO FIRE ✅
+**Prediction**: NO FIRE ✅  
 **Confidence**: 96.3%
 
 ## 🤝 Contributing
@@ -197,6 +200,10 @@ Contributions are welcome! Here's how you can help:
 - • 🌐 Create web interface
 - • 📊 Add more evaluation metrics
 - • 🎨 Enhance visualization
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
